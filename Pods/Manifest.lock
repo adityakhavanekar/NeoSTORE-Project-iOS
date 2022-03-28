@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireMapper (1.0.0):
+    - Alamofire (~> 4.1)
+  - iOSDropDown (0.3.4)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireMapper
+  - iOSDropDown
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireMapper
+    - iOSDropDown
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireMapper: bdcd94eb53ab63ec9a12e4685bba73e3d0072f36
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 98d024c367350a650e5671c99387c4f5d392b7c1
+
+COCOAPODS: 1.11.2
